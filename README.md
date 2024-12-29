@@ -1,2 +1,2 @@
 # Graphics
-Graphics
+Contains all graphical assets such as logo, banners and ...
